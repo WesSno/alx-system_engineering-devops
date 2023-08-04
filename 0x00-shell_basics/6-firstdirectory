@@ -1,2 +1,2 @@
-#!/bin/bash 
- mktemp -d -t 6-firstdirectory-XXXXXXXXXX
+#!/bin?bash 
+tmp_dir=$(mktemp -d -t 6-firstdirectory-XXXXXXXXX)
